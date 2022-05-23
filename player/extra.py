@@ -1,4 +1,4 @@
-'''import os
+import os
 import asyncio
 import time
 import shlex
@@ -116,7 +116,7 @@ async def who_is(client, message):
             quote=True,
             disable_notification=True
         )
-    await status_message.delete()'''
+    await status_message.delete()
 
 # Need an Updation please wait some time 
 
