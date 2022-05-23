@@ -1,0 +1,16 @@
+tgcrypto
+ffmpeg-python
+git+https://github.com/Makoto-XD/pyrogram@master
+py-tgcalls
+python-dotenv
+youtube-dl
+youtube-search-python
+yt-dlp
+wget
+telegraph
+requests
+asyncio
+youtube-search
+aiohttp
+
+# Used an Advanced Version of Pyrogrm !
