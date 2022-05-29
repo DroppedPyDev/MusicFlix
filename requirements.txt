@@ -18,6 +18,7 @@ dnspython
 heroku3
 gitpython
 telegraph # for telegra.ph file module 
+lyricsgenius # for lyrics
 python-telegram-bot
 spotipy # For Spotify Downloader 2
 eyeD3 - Spotify
