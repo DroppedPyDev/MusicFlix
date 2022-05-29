@@ -31,9 +31,17 @@
             "description": "Put Your Assistant Username without @",
             "required": true
         },
-        "SUPPORT_GROUP": {
+        "GROUP_SUPPORT": {
             "description": "put your support group link without @",
             "required": true
+        },
+        "OWNER_NAME": {
+            "description": "Bot Creator/Admin Telegram Name",
+            "required": true
+        },
+        "BOT_NAME": {
+           "description": "Bot Name From Botfather",
+           "required": true
         },
         "UPDATES_CHANNEL": {
             "description": "put your channel link without @",
@@ -60,18 +68,15 @@
             "required": true
         }
     },
-    "addons": [],
     "buildpacks": [
-        {
-            "url": "heroku/python"
-        }
-    ],
-    "formation": {
-        "worker": {
-            "quantity": 1,
-            "size": "free"
-        }
+    {
+      "url": "heroku/python"
     },
-    "stack": "container"
+    {   
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+    }
+  ]
 }
-
