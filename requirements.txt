@@ -1,16 +1,23 @@
+git+https://github.com/pyrogram/pyrogram@master
 tgcrypto
-ffmpeg-python
-git+https://github.com/Makoto-XD/pyrogram@master
+youtube-search
+yt-dlp
 py-tgcalls
 python-dotenv
-youtube-dl
 youtube-search-python
-yt-dlp
-wget
-telegraph
 requests
-asyncio
-youtube-search
 aiohttp
-
-# Used an Advanced Version of Pyrogrm !
+aiofiles
+asyncio
+ffmpeg-python
+pillow
+future
+psutil
+wget
+dnspython
+heroku3
+gitpython
+telegraph # for telegra.ph file module 
+python-telegram-bot
+spotipy # For Spotify Downloader 2
+eyeD3 - Spotify
