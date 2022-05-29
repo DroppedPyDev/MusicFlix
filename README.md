@@ -7,6 +7,9 @@
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Abhijith-Sudhakaran/MusicFlix)
 
+## Usage Note 📄
+
+<b> User Must Fork these repo, Make Changes in <li><code>config.py</li>
 ## 𝗖𝗿𝗲𝗮𝘁𝗲𝗱 𝗕𝘆 🐱 
 - [Telegram 💌](https://t.me/Telecat_X) 
 - [Instagram 🪅](https://Instagram.com/hypercat_ext) 
@@ -28,6 +31,8 @@
 <h2><img src="https://github.com/GeekTG/assets/raw/master/744-pendrive-storage-lineal.gif" align="center" width="65"> Commands Of The Bot</h2>
 <ul>
    <li><code>/start</code> - 𝗕𝗼𝘁 𝗦𝘁𝗮𝗿𝘁𝗶𝗻𝗴...</li>
+    <li><code>/vsong</code> - 𝗩𝗶𝗱𝗲𝗼 𝗱𝗼𝘄𝗻𝗹𝗼𝗮𝗱...</li>
+    <li><code>/lyric</code> - 𝗟𝘆𝗿𝗶𝗰 𝗖𝗼𝗺𝗺𝗮𝗻𝗱...</li>
     <li><code>/song</code> - 𝗦𝗼𝗻𝗴 𝗗𝗼𝘄𝗻𝗹𝗼𝗮𝗱...</li>
     <li><code>/help</code> - 𝗛𝗲𝗹𝗽 𝗖𝗼𝗺𝗺𝗮𝗻𝗱...</li>
 </ul>
